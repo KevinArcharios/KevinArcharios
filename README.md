@@ -1,108 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=gradient&customColorList=6,12,20,24,30&text=KEVIN&fontSize=62&fontColor=FFFFFF&animation=fadeIn&desc=Informatics%20Student%20%7C%20Web%20Developer&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:2F2F2F&text=KEVIN&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Informatics%20Student%20•%20Web%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=A5D8FF&center=true&vCenter=true&width=700&lines=Building+things+that+usually+work.;Sometimes+debugging.+Sometimes+guessing.;Still+learning.+Still+shipping."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Error+Enjoyer.;Learning+every+single+day.;Turning+ideas+into+code."/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=KevinArcharios&label=Visitors&color=3b82f6&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,git,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# ◈ Glass Card // About Me
+# About Me
 
-```txt
-╭──────────────────────────────────────────────╮
-│ Name      Kevin Ridwan Simanjuntak           │
-│ Role      Informatics Student                │
-│ Focus     Programming & Web Development      │
-│ Country   Indonesia                          │
-│ Status    Probably fixing another bug        │
-╰──────────────────────────────────────────────╯
+```text
+Name       Kevin Ridwan Simanjuntak
+Role       Informatics Student
+Focus      Web Development & Programming
+Location   Indonesia
 ```
 
-> *I enjoy building random ideas until they somehow become actual projects.*
-
----
-
-# ◈ Current Stack
+# Tech Stack
 
 <div align="center">
 
-| Language | Database | Tools |
-|----------|----------|-------|
-| Java • Python • JavaScript • C++ | MySQL | VS Code • Git |
+| Languages | Frontend | Database | Tools |
+|-----------|----------|----------|-------|
+| Java • JavaScript • Python • C++ | HTML • CSS | MySQL | Git • VS Code |
 
 </div>
 
 ---
 
-# ◈ Activity
+# GitHub Statistics
+
+<br>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinArcharios&bg_color=0d1117&color=7dd3fc&line=60a5fa&point=ffffff&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KevinArcharios&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinArcharios&layout=compact&theme=transparent&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinArcharios&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-# ◈ Current Status
+# Current Status
 
-```txt
-▣ Learning new things.
-▣ Building side projects.
-▣ Refactoring old code.
-▣ Breaking working code.
-▣ Fixing what I just broke.
+```text
+✓ Learning new technologies
+✓ Building personal projects
+✓ Writing cleaner code
+✓ Solving problems one bug at a time
 ```
 
 ---
 
-# ◈ Contribution
+# Currently Interested In
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinArcharios&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# ◈ Random Dev Quote
-
-<div align="center">
-
-> "Every bug is just an undocumented feature waiting to disappoint someone."
-
-</div>
+- Modern Web Development
+- Backend Development
+- UI / UX Design
+- Database Design
+- Software Engineering
 
 ---
 
 <div align="center">
 
-### ◇ Thanks for stopping by.
-
-Code.
-Build.
-Break.
-Repeat.
+> *"Keep building. Keep learning."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,20,24,30"/>
+<br>
+
+<div align="center">
+
+Thanks for visiting my profile.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2F2F2F,100:000000"/>
